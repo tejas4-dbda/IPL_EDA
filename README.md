@@ -1,6 +1,6 @@
 ## IPL Data Analysis with Apache Spark
 
-This project is focused on performing data analysis on Indian Premier League (IPL) datasets which are stored on S3 bucket using Apache Spark. The primary goal is to leverage Spark's distributed computing capabilities to process and analyze IPL data efficiently.
+This project is focused on performing exploratory data analysis on Indian Premier League (IPL) datasets which are stored on S3 bucket using Apache Spark. The primary goal is to leverage Spark's distributed computing capabilities to process and analyze IPL data efficiently.
 
 **Features**
 
